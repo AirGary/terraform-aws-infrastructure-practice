@@ -1,0 +1,5 @@
+aws_region   = "ap-northeast-1"
+project_name = "terraform-practice"
+environment  = "dev"
+db_username  = "postgres"
+db_password  = "CHANGE_ME"
